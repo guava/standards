@@ -18,11 +18,14 @@ Abaixo, segue uma relação dos padrões já documentados, é só clicar e se di
 
 - [CSS](https://github.com/guava/standards/blob/master/css.md)
 
+- [Design](https://github.com/guava/standards/blob/master/design.md)
+
 - [Git](https://github.com/guava/standards/blob/master/git.md)
 
 - [Javascript](https://github.com/guava/standards/blob/master/javascript.md)
 
 - [Ruby](https://github.com/guava/standards/blob/master/ruby.md)
+
 
 
 ## Como Contribuir?
