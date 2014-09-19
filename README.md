@@ -33,7 +33,7 @@ Faz parte da Guava, e quer contribuir para este projeto?
 
 1. Abra uma _issue_, com uma breve descrição do padrão e o porque que devemos adotá-lo.
 2. Solicite um _Pull Request_.
-3. Adicione um comentário na _issue_ convocando os administradores _@lmarinho_, _@gvc ou _@lailsonbm para revisão.
+3. Adicione um comentário na _issue_ convocando os administradores [_@lmarinho_](https://github.com/lmarinho), [_@gvc_](https://github.com/gvc) ou [_@lailsonbm_](https://github.com/lailsonbm) para revisão.
 4. Aguarde seu _Pull Request_ ser aceito.
 
 **Editar um padrão**
