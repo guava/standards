@@ -16,13 +16,13 @@ Vamos crescer juntos! Boa Sorte!
 
 Abaixo, segue uma relação dos padrões já documentados, é só clicar e se divertir.
 
-- [CSS](https://github.com/guava/standards/css.md)
+- [CSS](https://github.com/guava/standards/blob/master/css.md)
 
-- [Git](https://github.com/guava/standards/git.md)
+- [Git](https://github.com/guava/standards/blob/master/git.md)
 
-- [Javascript](https://github.com/guava/standards/javascript.md)
+- [Javascript](https://github.com/guava/standards/blob/master/javascript.md)
 
-- [Ruby](https://github.com/guava/standards/ruby.md)
+- [Ruby](https://github.com/guava/standards/blob/master/ruby.md)
 
 
 ## Como Contribuir?
