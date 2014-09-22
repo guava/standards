@@ -1,6 +1,6 @@
 ![Logo Guava](logo-guava.png "Guava")
 
-## Olá, seja bem-vindo á Guava!
+## Olá, seja bem-vindo à Guava!
 
 > [Guava Software](http://guava.com.br) website
 
