@@ -5,7 +5,7 @@
 > [Guava Software](http://guava.com.br) website
 
 Aqui você irá encontrar todos os padrões adotados pela nossa equipe e irá entender um pouco como funciona o nosso fluxo de trabalho.
-Este `help` foi criado com o propósito de ajudá-lo caso você seja iniciante ou esqueceu de alguma coisa, e sempre será atualizado com os mais novos padrões que iremos utilizar.
+Este _help_ foi criado com o propósito de ajudá-lo caso você seja iniciante ou esqueceu de alguma coisa, e sempre será atualizado com os mais novos padrões que iremos utilizar. 
 
 Contamos com a sua contribuição, seja dando sugestões ou adicionando novos materiais através de _issues_.
 
@@ -47,7 +47,8 @@ Faz parte da Guava, e quer contribuir para este projeto?
 4. Adicione um comentário na _issue_ convocando os administradores [_@lmarinho_](https://github.com/lmarinho), [_@gvc_](https://github.com/gvc) ou [_@lailsonbm_](https://github.com/lailsonbm) para revisão.
 5. Aguarde seu _Pull Request_ ser aceito.
 
-#### Recomendações
 
+#### Observações
+
+- Antes de contribuir para este projeto, leia a sessão [Git](https://github.com/guava/standards/blob/master/git.md).
 - O _merge_ só deverá ser feito após **algum dos administradores** realizarem a **revisão** do conteúdo.
-- Mensagens de _commits_ devem ser em **en-US** no modo imperativo. (ex.: Adds a new standards for Javascript, Edits standard of section comments in CSS... )
