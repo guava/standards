@@ -59,7 +59,7 @@ Abaixo segue a estrutura dos arquivos que utilizamos.
 
 ## Formatação
 
-- Padronize a ordem de declaração utilizando o [CSSComb](http://csscomb.com/ "CSSComb").
+- Instale o [CSSComb](http://csscomb.com/ "CSSComb") no seu editor e use o arquivo `.csscomb.json` para padronizar seu código com o restante da equipe.
 - No arquivo `main.css.scss` utilize comentários e observe a ordem das chamadas para separar de forma lógica o `@import` dos arquivos.
 
 
