@@ -80,7 +80,7 @@ Abaixo segue a estrutura dos arquivos que utilizamos.
 **Comentários**
 
 - Comente o seu código sempre que possível.
-- Os **comentários** serão escritos todos de forma **simples e objetiva**, com apenas a primeira letra da frase em maiúscula. `//Classe utilizada para habilitar o botão de download`
+- Os **comentários** serão escritos todos de forma **simples e objetiva**, com apenas a primeira letra da frase em maiúscula. `// Class used to enable the download button`
 - Evite **comentários** no final da linha, inclua-os **no início**.
 - Comentários se dividem em **grupo**, **linha** e **blocos**.
 
