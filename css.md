@@ -16,7 +16,7 @@ Abaixo segue a estrutura dos arquivos que utilizamos.
             └── base.css.scss
             └── general.css.scss
             └── typography.css.scss
-            └── main.css.scss
+            └── application.css.scss
             └── form.css.scss
             └── components.css.scss
             └── sprite-generator.css.scss
@@ -28,7 +28,7 @@ Abaixo segue a estrutura dos arquivos que utilizamos.
 
 **typography** será o arquivo responsável pela estilização da tipografia, tamanho, pesos, estilos, font-face, etc..
 
-**main** será o arquivo contendo a ordem de chamadas para cada arquivo usando o `@import`.
+**application** será o arquivo contendo a ordem de chamadas para cada arquivo usando o `@import`.
 
 **page, pageN** será o arquivo gerado pelo `rails` referente ao estilo de cada página.
 
